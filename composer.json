@@ -1,0 +1,13 @@
+{
+    "name": "ricardofiorani/cupcake2-cupmailer",
+    "description": "Modulo de Email Cup mailer",
+    "authors": [
+        {
+            "name": "Ricardo Fiorani",
+            "email": "ricardo.fiorani@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
